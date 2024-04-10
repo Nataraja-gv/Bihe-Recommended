@@ -1,0 +1,45 @@
+#guideform{
+			
+			background:lightblue;
+			float:left;
+			width:500px;
+			border:3px solid honeydew;
+			
+			position:absolute;
+			left:28%;
+			
+			padding-left:50px;
+			padding-top:20px;
+	}
+	
+	body{ //background:-webkit-linear-gradient(left,#353535,ivory); }
+	#guideform label{
+			display:inline-block;
+			width:120px;
+			color:black;
+			//background-color:black;
+			font-weight:bold;
+			text-align:left;
+			margin-bottom:20px;
+	}
+	
+	input[type='text'],[type='password'],[type='number'],select{
+				//background-color:#333;
+				height:30px;
+				border-radius:5px;
+				border:1px solid #333;
+				color:black;
+				font-weight:bold;
+				padding:4px;
+	}
+	
+	.st1{
+	
+		         height:30px;
+				border-radius:5px;
+				border:1px solid #333;
+				color:black;
+				font-weight:bold;
+				padding:4px;
+	}
+	

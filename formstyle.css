@@ -1,0 +1,53 @@
+.heading{
+	
+	color:blue;
+	text-decoration:underline;
+	text-shadow:1px 1px red;
+	}
+	
+	#formdiv{
+			
+			//background:-webkit-linear-gradient(left,thistle,ivory);
+			float:left;
+			width:500px;
+			//border:1px dashed black;
+			
+			position:absolute;
+			left:28%;
+			border-radius:5px;
+			padding-left:50px;
+			padding-top:20px;
+	}
+	
+	
+	#formdiv label{
+			display:inline-block;
+			width:120px;
+			color:black;
+			//background-color:black;
+			font-weight:bold;
+			text-align:left;
+			margin-bottom:20px;
+	}
+	
+	input[type='text'],[type='password'],select{
+				background-color:#333;
+				height:30px;
+				border-radius:5px;
+				border:1px solid #333;
+				color:white;
+				font-weight:bold;
+				padding:5px;
+	}
+	
+	input[type='submit']{
+	
+				background:-webkit-linear-gradient(left,#444444,goldenrod);
+				width:200px;
+				height:27px;
+				font-size:13px;
+				border-radius:7px;
+				margin-left:50px;
+				color:white;
+	}
+	

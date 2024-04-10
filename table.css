@@ -1,0 +1,41 @@
+
+body{
+
+background-color:rgba(203, 198, 194, 0.904);
+
+}
+table.signup{
+	
+	border-collapse:collapse;
+	
+	border-radius:10px;
+	border:1px solid rgb(23, 19, 19);
+	
+	}
+	
+	table.signup td{
+	padding:14px;
+	background-color:rgb(160, 29, 142);
+	font-size:15px;
+	font-family: 'MS Sans Serif';
+	font-weight:500;
+		
+	}
+	
+	table.signup input,select{
+	
+	width:200px;
+	height:35px;
+	padding-left:10px;
+	font-weight:bold;
+	
+	}
+	
+	table.signup textarea{
+	width:200px;
+	height:200px;
+	padding:10px;
+	font-weight:bold;
+	text-transform:capitalize;
+	
+	}
